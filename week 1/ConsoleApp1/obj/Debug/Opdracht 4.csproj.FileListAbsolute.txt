@@ -1,0 +1,6 @@
+C:\Users\eugen\source\repos\IntroductielesPP1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\eugen\source\repos\IntroductielesPP1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\eugen\source\repos\IntroductielesPP1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\eugen\source\repos\IntroductielesPP1\ConsoleApp1\obj\Debug\Opdracht 4.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\IntroductielesPP1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\eugen\source\repos\IntroductielesPP1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
