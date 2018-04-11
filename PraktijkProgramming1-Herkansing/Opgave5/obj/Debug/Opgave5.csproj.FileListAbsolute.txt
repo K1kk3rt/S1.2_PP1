@@ -1,0 +1,10 @@
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave5\bin\Debug\Opgave5.exe.config
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave5\bin\Debug\Opgave5.exe
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave5\bin\Debug\Opgave5.pdb
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave5\obj\Debug\Opgave5.csprojResolveAssemblyReference.cache
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave5\obj\Debug\Opgave5.Form1.resources
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave5\obj\Debug\Opgave5.Properties.Resources.resources
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave5\obj\Debug\Opgave5.csproj.GenerateResource.cache
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave5\obj\Debug\Opgave5.csproj.CoreCompileInputs.cache
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave5\obj\Debug\Opgave5.exe
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave5\obj\Debug\Opgave5.pdb

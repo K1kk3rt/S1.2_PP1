@@ -1,0 +1,11 @@
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave4\bin\Debug\netcoreapp2.0\Opgave4.deps.json
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave4\bin\Debug\netcoreapp2.0\Opgave4.runtimeconfig.json
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave4\bin\Debug\netcoreapp2.0\Opgave4.runtimeconfig.dev.json
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave4\bin\Debug\netcoreapp2.0\Opgave4.dll
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave4\bin\Debug\netcoreapp2.0\Opgave4.pdb
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave4\obj\Debug\netcoreapp2.0\Opgave4.csprojResolveAssemblyReference.cache
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave4\obj\Debug\netcoreapp2.0\Opgave4.csproj.CoreCompileInputs.cache
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave4\obj\Debug\netcoreapp2.0\Opgave4.AssemblyInfoInputs.cache
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave4\obj\Debug\netcoreapp2.0\Opgave4.AssemblyInfo.cs
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave4\obj\Debug\netcoreapp2.0\Opgave4.dll
+D:\Eugenie\Documents\GitHub\S1.2_PP1\PraktijkProgramming1-Herkansing\Opgave4\obj\Debug\netcoreapp2.0\Opgave4.pdb
