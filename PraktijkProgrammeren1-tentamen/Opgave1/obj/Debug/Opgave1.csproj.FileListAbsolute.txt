@@ -1,0 +1,10 @@
+C:\Users\eugen\source\repos\PraktijkProgrammeren1-tentamen\Opgave1\bin\Debug\Opgave1.exe.config
+C:\Users\eugen\source\repos\PraktijkProgrammeren1-tentamen\Opgave1\bin\Debug\Opgave1.exe
+C:\Users\eugen\source\repos\PraktijkProgrammeren1-tentamen\Opgave1\bin\Debug\Opgave1.pdb
+C:\Users\eugen\source\repos\PraktijkProgrammeren1-tentamen\Opgave1\obj\Debug\Opgave1.csprojResolveAssemblyReference.cache
+C:\Users\eugen\source\repos\PraktijkProgrammeren1-tentamen\Opgave1\obj\Debug\Opgave1.form_Duimelot.resources
+C:\Users\eugen\source\repos\PraktijkProgrammeren1-tentamen\Opgave1\obj\Debug\Opgave1.Properties.Resources.resources
+C:\Users\eugen\source\repos\PraktijkProgrammeren1-tentamen\Opgave1\obj\Debug\Opgave1.csproj.GenerateResource.Cache
+C:\Users\eugen\source\repos\PraktijkProgrammeren1-tentamen\Opgave1\obj\Debug\Opgave1.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\PraktijkProgrammeren1-tentamen\Opgave1\obj\Debug\Opgave1.exe
+C:\Users\eugen\source\repos\PraktijkProgrammeren1-tentamen\Opgave1\obj\Debug\Opgave1.pdb
