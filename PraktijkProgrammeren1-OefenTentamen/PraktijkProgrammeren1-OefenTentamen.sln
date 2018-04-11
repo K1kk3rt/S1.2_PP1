@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram", "Anagram\Anagram.csproj", "{0F29DB9F-791B-4572-B33C-0979941B8750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schruifpuzzel", "Schruifpuzzel\Schruifpuzzel.csproj", "{63533D0E-66ED-422E-9298-0B05A676983C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F29DB9F-791B-4572-B33C-0979941B8750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F29DB9F-791B-4572-B33C-0979941B8750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F29DB9F-791B-4572-B33C-0979941B8750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F29DB9F-791B-4572-B33C-0979941B8750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63533D0E-66ED-422E-9298-0B05A676983C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63533D0E-66ED-422E-9298-0B05A676983C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63533D0E-66ED-422E-9298-0B05A676983C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63533D0E-66ED-422E-9298-0B05A676983C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81F25EF2-CAB5-4816-9D8B-2210C32B571A}
+	EndGlobalSection
+EndGlobal
