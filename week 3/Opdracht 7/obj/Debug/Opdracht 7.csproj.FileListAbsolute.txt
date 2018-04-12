@@ -1,0 +1,7 @@
+C:\Users\eugen\source\repos\lesPP3\Opdracht 7\bin\Debug\Opdracht_7.exe.config
+C:\Users\eugen\source\repos\lesPP3\Opdracht 7\bin\Debug\Opdracht_7.exe
+C:\Users\eugen\source\repos\lesPP3\Opdracht 7\bin\Debug\Opdracht_7.pdb
+C:\Users\eugen\source\repos\lesPP3\Opdracht 7\obj\Debug\Opdracht 7.csprojResolveAssemblyReference.cache
+C:\Users\eugen\source\repos\lesPP3\Opdracht 7\obj\Debug\Opdracht 7.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\lesPP3\Opdracht 7\obj\Debug\Opdracht_7.exe
+C:\Users\eugen\source\repos\lesPP3\Opdracht 7\obj\Debug\Opdracht_7.pdb

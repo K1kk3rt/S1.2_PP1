@@ -1,0 +1,6 @@
+C:\Users\eugen\source\repos\lesPP3\Opdracht 8\bin\Debug\Opdracht 8.exe.config
+C:\Users\eugen\source\repos\lesPP3\Opdracht 8\bin\Debug\Opdracht 8.exe
+C:\Users\eugen\source\repos\lesPP3\Opdracht 8\bin\Debug\Opdracht 8.pdb
+C:\Users\eugen\source\repos\lesPP3\Opdracht 8\obj\Debug\Opdracht 8.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\lesPP3\Opdracht 8\obj\Debug\Opdracht 8.exe
+C:\Users\eugen\source\repos\lesPP3\Opdracht 8\obj\Debug\Opdracht 8.pdb

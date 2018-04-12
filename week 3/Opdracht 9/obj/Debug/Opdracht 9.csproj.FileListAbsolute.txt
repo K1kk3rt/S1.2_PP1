@@ -1,0 +1,10 @@
+C:\Users\eugen\source\repos\lesPP3\Opdracht 9\obj\Debug\Opdracht 9.csprojResolveAssemblyReference.cache
+C:\Users\eugen\source\repos\lesPP3\Opdracht 9\obj\Debug\Opdracht_9.Form1.resources
+C:\Users\eugen\source\repos\lesPP3\Opdracht 9\obj\Debug\Opdracht_9.Properties.Resources.resources
+C:\Users\eugen\source\repos\lesPP3\Opdracht 9\obj\Debug\Opdracht 9.csproj.GenerateResource.Cache
+C:\Users\eugen\source\repos\lesPP3\Opdracht 9\obj\Debug\Opdracht 9.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\lesPP3\Opdracht 9\bin\Debug\Opdracht 9.exe.config
+C:\Users\eugen\source\repos\lesPP3\Opdracht 9\bin\Debug\Opdracht 9.exe
+C:\Users\eugen\source\repos\lesPP3\Opdracht 9\bin\Debug\Opdracht 9.pdb
+C:\Users\eugen\source\repos\lesPP3\Opdracht 9\obj\Debug\Opdracht 9.exe
+C:\Users\eugen\source\repos\lesPP3\Opdracht 9\obj\Debug\Opdracht 9.pdb
