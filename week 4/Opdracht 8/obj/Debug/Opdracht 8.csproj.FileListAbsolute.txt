@@ -1,0 +1,9 @@
+C:\Users\eugen\source\repos\LesPP4\Opdracht 8\bin\Debug\Opdracht 8.exe.config
+C:\Users\eugen\source\repos\LesPP4\Opdracht 8\bin\Debug\Opdracht 8.exe
+C:\Users\eugen\source\repos\LesPP4\Opdracht 8\bin\Debug\Opdracht 8.pdb
+C:\Users\eugen\source\repos\LesPP4\Opdracht 8\obj\Debug\Opdracht_8.Form1.resources
+C:\Users\eugen\source\repos\LesPP4\Opdracht 8\obj\Debug\Opdracht_8.Properties.Resources.resources
+C:\Users\eugen\source\repos\LesPP4\Opdracht 8\obj\Debug\Opdracht 8.csproj.GenerateResource.Cache
+C:\Users\eugen\source\repos\LesPP4\Opdracht 8\obj\Debug\Opdracht 8.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\LesPP4\Opdracht 8\obj\Debug\Opdracht 8.exe
+C:\Users\eugen\source\repos\LesPP4\Opdracht 8\obj\Debug\Opdracht 8.pdb
