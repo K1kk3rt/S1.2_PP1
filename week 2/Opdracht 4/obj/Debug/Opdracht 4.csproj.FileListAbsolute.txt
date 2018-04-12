@@ -1,0 +1,10 @@
+C:\Users\eugen\source\repos\les1PP1\Opdracht 4\bin\Debug\Opdracht 4.exe.config
+C:\Users\eugen\source\repos\les1PP1\Opdracht 4\bin\Debug\Opdracht 4.exe
+C:\Users\eugen\source\repos\les1PP1\Opdracht 4\bin\Debug\Opdracht 4.pdb
+C:\Users\eugen\source\repos\les1PP1\Opdracht 4\obj\Debug\Opdracht 4.csprojResolveAssemblyReference.cache
+C:\Users\eugen\source\repos\les1PP1\Opdracht 4\obj\Debug\Opdracht_4.Form1.resources
+C:\Users\eugen\source\repos\les1PP1\Opdracht 4\obj\Debug\Opdracht_4.Properties.Resources.resources
+C:\Users\eugen\source\repos\les1PP1\Opdracht 4\obj\Debug\Opdracht 4.csproj.GenerateResource.Cache
+C:\Users\eugen\source\repos\les1PP1\Opdracht 4\obj\Debug\Opdracht 4.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\les1PP1\Opdracht 4\obj\Debug\Opdracht 4.exe
+C:\Users\eugen\source\repos\les1PP1\Opdracht 4\obj\Debug\Opdracht 4.pdb
