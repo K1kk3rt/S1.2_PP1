@@ -1,0 +1,7 @@
+C:\Users\eugen\source\repos\lesPP3\opdracht 2.0\bin\Debug\opdracht 2.0.exe.config
+C:\Users\eugen\source\repos\lesPP3\opdracht 2.0\bin\Debug\opdracht 2.0.exe
+C:\Users\eugen\source\repos\lesPP3\opdracht 2.0\bin\Debug\opdracht 2.0.pdb
+C:\Users\eugen\source\repos\lesPP3\opdracht 2.0\obj\Debug\Opdracht 2.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\lesPP3\opdracht 2.0\obj\Debug\opdracht 2.0.exe
+C:\Users\eugen\source\repos\lesPP3\opdracht 2.0\obj\Debug\opdracht 2.0.pdb
+C:\Users\eugen\source\repos\lesPP3\opdracht 2.0\obj\Debug\Opdracht 2.csprojResolveAssemblyReference.cache

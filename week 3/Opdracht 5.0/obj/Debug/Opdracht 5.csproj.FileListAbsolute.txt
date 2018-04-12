@@ -1,0 +1,6 @@
+C:\Users\eugen\source\repos\lesPP3\Opdracht 5.0\bin\Debug\Opdracht 5.0.exe.config
+C:\Users\eugen\source\repos\lesPP3\Opdracht 5.0\bin\Debug\Opdracht 5.0.exe
+C:\Users\eugen\source\repos\lesPP3\Opdracht 5.0\bin\Debug\Opdracht 5.0.pdb
+C:\Users\eugen\source\repos\lesPP3\Opdracht 5.0\obj\Debug\Opdracht 5.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\lesPP3\Opdracht 5.0\obj\Debug\Opdracht 5.0.exe
+C:\Users\eugen\source\repos\lesPP3\Opdracht 5.0\obj\Debug\Opdracht 5.0.pdb

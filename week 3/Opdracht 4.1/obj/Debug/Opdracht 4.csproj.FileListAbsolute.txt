@@ -1,0 +1,6 @@
+C:\Users\eugen\source\repos\lesPP3\Opdracht 4.1\bin\Debug\Opdracht 4.1.exe.config
+C:\Users\eugen\source\repos\lesPP3\Opdracht 4.1\bin\Debug\Opdracht 4.1.exe
+C:\Users\eugen\source\repos\lesPP3\Opdracht 4.1\bin\Debug\Opdracht 4.1.pdb
+C:\Users\eugen\source\repos\lesPP3\Opdracht 4.1\obj\Debug\Opdracht 4.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\lesPP3\Opdracht 4.1\obj\Debug\Opdracht 4.1.exe
+C:\Users\eugen\source\repos\lesPP3\Opdracht 4.1\obj\Debug\Opdracht 4.1.pdb
