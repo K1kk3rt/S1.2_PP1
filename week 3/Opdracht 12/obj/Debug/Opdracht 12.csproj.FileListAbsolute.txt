@@ -1,0 +1,10 @@
+C:\Users\eugen\source\repos\lesPP3\Opdracht 12\bin\Debug\Opdracht 12.exe.config
+C:\Users\eugen\source\repos\lesPP3\Opdracht 12\bin\Debug\Opdracht 12.exe
+C:\Users\eugen\source\repos\lesPP3\Opdracht 12\bin\Debug\Opdracht 12.pdb
+C:\Users\eugen\source\repos\lesPP3\Opdracht 12\obj\Debug\Opdracht 12.csprojResolveAssemblyReference.cache
+C:\Users\eugen\source\repos\lesPP3\Opdracht 12\obj\Debug\Opdracht_12.Bioscoopkaartje.resources
+C:\Users\eugen\source\repos\lesPP3\Opdracht 12\obj\Debug\Opdracht_12.Properties.Resources.resources
+C:\Users\eugen\source\repos\lesPP3\Opdracht 12\obj\Debug\Opdracht 12.csproj.GenerateResource.Cache
+C:\Users\eugen\source\repos\lesPP3\Opdracht 12\obj\Debug\Opdracht 12.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\lesPP3\Opdracht 12\obj\Debug\Opdracht 12.exe
+C:\Users\eugen\source\repos\lesPP3\Opdracht 12\obj\Debug\Opdracht 12.pdb

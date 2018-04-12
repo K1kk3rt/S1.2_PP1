@@ -1,0 +1,10 @@
+C:\Users\eugen\source\repos\lesPP3\Opdracht 13\bin\Debug\Opdracht 13.exe.config
+C:\Users\eugen\source\repos\lesPP3\Opdracht 13\bin\Debug\Opdracht 13.exe
+C:\Users\eugen\source\repos\lesPP3\Opdracht 13\bin\Debug\Opdracht 13.pdb
+C:\Users\eugen\source\repos\lesPP3\Opdracht 13\obj\Debug\Opdracht 13.csprojResolveAssemblyReference.cache
+C:\Users\eugen\source\repos\lesPP3\Opdracht 13\obj\Debug\Opdracht_13.Form1.resources
+C:\Users\eugen\source\repos\lesPP3\Opdracht 13\obj\Debug\Opdracht_13.Properties.Resources.resources
+C:\Users\eugen\source\repos\lesPP3\Opdracht 13\obj\Debug\Opdracht 13.csproj.GenerateResource.Cache
+C:\Users\eugen\source\repos\lesPP3\Opdracht 13\obj\Debug\Opdracht 13.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\lesPP3\Opdracht 13\obj\Debug\Opdracht 13.exe
+C:\Users\eugen\source\repos\lesPP3\Opdracht 13\obj\Debug\Opdracht 13.pdb
