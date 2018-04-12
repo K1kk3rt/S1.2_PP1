@@ -1,0 +1,10 @@
+C:\Users\eugen\source\repos\les1PP1\Opdracht 5\bin\Debug\Opdracht 5.exe.config
+C:\Users\eugen\source\repos\les1PP1\Opdracht 5\bin\Debug\Opdracht 5.exe
+C:\Users\eugen\source\repos\les1PP1\Opdracht 5\bin\Debug\Opdracht 5.pdb
+C:\Users\eugen\source\repos\les1PP1\Opdracht 5\obj\Debug\Opdracht 5.csprojResolveAssemblyReference.cache
+C:\Users\eugen\source\repos\les1PP1\Opdracht 5\obj\Debug\Opdracht_5.Form1.resources
+C:\Users\eugen\source\repos\les1PP1\Opdracht 5\obj\Debug\Opdracht_5.Properties.Resources.resources
+C:\Users\eugen\source\repos\les1PP1\Opdracht 5\obj\Debug\Opdracht 5.csproj.GenerateResource.Cache
+C:\Users\eugen\source\repos\les1PP1\Opdracht 5\obj\Debug\Opdracht 5.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\les1PP1\Opdracht 5\obj\Debug\Opdracht 5.exe
+C:\Users\eugen\source\repos\les1PP1\Opdracht 5\obj\Debug\Opdracht 5.pdb
